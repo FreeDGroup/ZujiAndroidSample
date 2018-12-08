@@ -11,6 +11,9 @@ This repo demonstrated how to use the chatbot in android app for Zuji project.
 1. Define an entry for the chatbot.
 2. Open the chatbot view when clicked the entry.
 
+![alt text](https://raw.githubusercontent.com/TravelFlanDev/ZujiAndroidSample/master/screenshot/home.png)
+![alt text](https://raw.githubusercontent.com/TravelFlanDev/ZujiAndroidSample/master/screenshot/chat.png)
+
 ## Usage
 ```
 package com.travelflan.zuji.zujiandroidsample;
