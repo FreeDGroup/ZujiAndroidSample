@@ -1,4 +1,4 @@
-# [Travelflan](https://www.travelflan.com/) Widget iOS Usage Sample For Zuji
+# [Travelflan](https://www.travelflan.com/) Widget Android Usage Sample For Zuji
 ![Platform](https://img.shields.io/badge/platform-android-orange.svg)
 ![Languages](https://img.shields.io/badge/language%20%7C%20java-orange.svg)
 
